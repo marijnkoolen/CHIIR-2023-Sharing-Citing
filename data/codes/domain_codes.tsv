@@ -1,0 +1,576 @@
+DOI	year	code
+10.1145/3176349.3176875	2018	document;genre;domain-agnostic
+10.1145/3020165.3022130	2017	task;work;research
+10.1145/3020165.3020178	2017	document;genre;Wikipedia
+10.1145/2854946.2855001	2016	task;iir;search
+10.1145/2854946.2855001	2016	document;genre;medical
+10.1145/2854946.2855001	2016	task;work;medical
+10.1145/2854946.2854958	2016	task;iir;search
+10.1145/3020165.3020172	2017	task;iir;collaborative search
+10.1145/3020165.3020175	2017	document;type;e-mail
+10.1145/3020165.3020175	2017	task;iir;personal information management
+10.1145/3020165.3020189	2017	document;genre;personal information
+10.1145/3020165.3020189	2017	document;type;e-mail
+10.1145/3020165.3020166	2017	document;genre;news
+10.1145/3020165.3020166	2017	task;context;learning
+10.1145/3020165.3020185	2017	document;genre;WWW
+10.1145/3020165.3020185	2017	document;topic;science
+10.1145/3020165.3020185	2017	task;work;science
+10.1145/3020165.3020181	2017	task;iir;question answering
+10.1145/3020165.3020177	2017	document;genre;social media
+10.1145/3020165.3020177	2017	document;issue;diversity
+10.1145/3020165.3020169	2017	research;IIR
+10.1145/3020165.3020169	2017	task;iir;information seeking
+10.1145/3020165.3020176	2017	document;genre;WWW
+10.1145/3020165.3020176	2017	document;genre;domain-agnostic
+10.1145/3020165.3020184	2017	research;IIR
+10.1145/3020165.3020184	2017	application;technology;search engines
+10.1145/3020165.3020183	2017	document;genre;WWW
+10.1145/3020165.3020183	2017	task;work;tourism
+10.1145/3020165.3020183	2017	application;technology;conversational agents
+10.1145/3020165.3020183	2017	task;work;e-commerce
+10.1145/3020165.3020183	2017	document;genre;personal information
+10.1145/3020165.3020182	2017	application;feature;visualization
+10.1145/3020165.3020182	2017	document;type;text
+10.1145/3020165.3020173	2017	application;device;mobile search
+10.1145/3020165.3020173	2017	application;technology;search engines
+10.1145/3020165.3020180	2017	document;genre;WWW
+10.1145/3020165.3020180	2017	document;genre;domain-agnostic
+10.1145/3020165.3020188	2017	task;iir;search
+10.1145/3020165.3020174	2017	task;iir;search
+10.1145/3020165.3020174	2017	application;feature;visualization
+10.1145/3020165.3020179	2017	task;context;libraries
+10.1145/3020165.3020187	2017	task;context;libraries
+10.1145/3020165.3020187	2017	document;type;books
+10.1145/3020165.3020167	2017	research;IIR
+10.1145/3020165.3020167	2017	research;process;methodology
+10.1145/3020165.3020170	2017	document;genre;WWW
+10.1145/3020165.3020170	2017	document;genre;domain-agnostic
+10.1145/3020165.3020170	2017	application;technology;search engines
+10.1145/3020165.3020168	2017	document;topic;social sciences
+10.1145/3020165.3020168	2017	task;work;social sciences
+10.1145/3020165.3020168	2017	application;technology;digital libraries
+10.1145/2854946.2854997	2016	task;iir;search
+10.1145/2854946.2854997	2016	research;issue;tasks
+10.1145/2854946.2854996	2016	document;genre;music
+10.1145/2854946.2854996	2016	application;feature;visualization
+10.1145/2854946.2854988	2016	document;genre;WWW
+10.1145/2854946.2854988	2016	research;issue;user engagement
+10.1145/2854946.2854989	2016	document;topic;health
+10.1145/2854946.2854981	2016	research;IIR
+10.1145/2854946.2854985	2016	document;topic;health
+10.1145/2854946.2854985	2016	research;issue;usability
+10.1145/2854946.2854980	2016	document;type;videos
+10.1145/2854946.2854980	2016	task;iir;search
+10.1145/2854946.2854982	2016	application;technology;web archiving
+10.1145/2854946.2854987	2016	document;type;speech
+10.1145/2854946.2855006	2016	application;technology;search engines
+10.1145/2854946.2855006	2016	research;IIR
+10.1145/2854946.2855006	2016	document;genre;WWW
+10.1145/2854946.2854994	2016	document;genre;WWW
+10.1145/2854946.2854994	2016	application;technology;search engines
+10.1145/2854946.2854986	2016	document;genre;WWW
+10.1145/2854946.2854986	2016	research;IIR
+10.1145/2854946.2854986	2016	application;technology;search engines
+10.1145/2854946.2855005	2016	research;issue;ir
+10.1145/2854946.2854992	2016	research;IIR
+10.1145/2854946.2855004	2016	task;context;archives/museums
+10.1145/2854946.2854991	2016	document;genre;social media
+10.1145/2854946.2854991	2016	task;iir;search
+10.1145/2854946.2854998	2016	task;iir;exploratory search
+10.1145/2854946.2854998	2016	document;type;images
+10.1145/2854946.2854998	2016	research;issue;UX
+10.1145/2854946.2854999	2016	task;iir;exploratory search
+10.1145/2854946.2854999	2016	document;type;images
+10.1145/2854946.2854999	2016	task;iir;search
+10.1145/2854946.2854999	2016	research;issue;UX
+10.1145/2854946.2854990	2016	document;type;books
+10.1145/2854946.2854990	2016	document;issue;multilinguality
+10.1145/2854946.2854995	2016	application;technology;conversational agents
+10.1145/2854946.2854995	2016	document;type;speech
+10.1145/2854946.2855000	2016	research;IIR
+10.1145/2854946.2855003	2016	application;feature;personalization
+10.1145/2854946.2855003	2016	application;feature;profiling
+10.1145/2854946.2855002	2016	research;IIR
+10.1145/2854946.2855002	2016	user;issue;information literacy
+10.1145/2854946.2854983	2016	research;IIR
+10.1145/2854946.2854993	2016	research;process;evaluation
+10.1145/2854946.2854993	2016	research;process;relevance assessment
+10.1145/2854946.2854974	2016	document;genre;Wikipedia
+10.1145/2854946.2854960	2016	task;work;research
+10.1145/2854946.2854960	2016	document;topic;science
+10.1145/2854946.2854960	2016	task;work;science
+10.1145/2854946.2854970	2016	document;type;books
+10.1145/2854946.2854969	2016	document;genre;WWW
+10.1145/2854946.2854969	2016	task;iir;exploratory search
+10.1145/2854946.2854959	2016	document;topic;history
+10.1145/2854946.2854959	2016	task;work;history
+10.1145/2854946.2854968	2016	document;genre;domain-agnostic
+10.1145/2854946.2854968	2016	research;IIR
+10.1145/2854946.2854968	2016	research;process;relevance assessment
+10.1145/2854946.2854972	2016	task;work;search-as-learning
+10.1145/2854946.2854972	2016	task;iir;exploratory search
+10.1145/2854946.2854962	2016	document;topic;social sciences
+10.1145/2854946.2854962	2016	task;work;social sciences
+10.1145/2854946.2854962	2016	research;IIR
+10.1145/2854946.2854976	2016	research;IIR
+10.1145/2854946.2854967	2016	document;genre;WWW
+10.1145/2854946.2854967	2016	application;technology;search engines
+10.1145/2854946.2854961	2016	application;technology;conversational agents
+10.1145/2854946.2854978	2016	document;genre;WWW
+10.1145/2854946.2854978	2016	research;IIR
+10.1145/2854946.2854978	2016	application;technology;search engines
+10.1145/2854946.2854975	2016	document;genre;WWW
+10.1145/2854946.2854965	2016	research;process;evaluation
+10.1145/2854946.2854965	2016	task;context;archives/museums
+10.1145/2854946.2854965	2016	research;issue;UX
+10.1145/2854946.2854973	2016	task;work;academic
+10.1145/2854946.2854973	2016	task;context;learning
+10.1145/2854946.2854973	2016	research;issue;user engagement
+10.1145/2854946.2854979	2016	task;iir;search
+10.1145/2854946.2854964	2016	user;issue;privacy
+10.1145/2854946.2854964	2016	document;topic;legal
+10.1145/2854946.2854964	2016	task;work;legal
+10.1145/2854946.2854977	2016	user;issue;privacy
+10.1145/2854946.2854977	2016	task;iir;collaborative search
+10.1145/2854946.2854977	2016	task;work;collaboration
+10.1145/2854946.2854963	2016	task;iir;collaborative search
+10.1145/2854946.2854966	2016	document;genre;personal information
+10.1145/2854946.2854966	2016	task;iir;personal information management
+10.1145/2854946.2854971	2016	research;IIR
+10.1145/2854946.2854957	2016	document;genre;WWW
+10.1145/2854946.2854957	2016	research;IIR
+10.1145/2854946.2854957	2016	application;technology;search engines
+10.1145/3498366.3505811	2022	document;topic;health
+10.1145/3498366.3505811	2022	document;genre;WWW
+10.1145/3498366.3505834	2022	document;genre;news
+10.1145/3498366.3505834	2022	document;genre;Wikipedia
+10.1145/3498366.3505781	2022	document;topic;health
+10.1145/3498366.3505755	2022	document;topic;crime
+10.1145/3498366.3505755	2022	document;genre;music
+10.1145/3498366.3505755	2022	application;feature;data visualization
+10.1145/3498366.3505825	2022	document;topic;health
+10.1145/3498366.3505766	2022	document;topic;health
+10.1145/3406522.3446043	2021	task;work;e-commerce
+10.1145/3406522.3446020	2021	document;type;literature
+10.1145/3343413.3377972	2020	task;work;education
+10.1145/3343413.3377972	2020	user;issue;disabilities
+10.1145/3343413.3377972	2020	user;group;disabilities
+10.1145/3343413.3377972	2020	document;type;videos
+10.1145/3343413.3377989	2020	document;topic;history
+10.1145/3343413.3377989	2020	task;work;history
+10.1145/3343413.3377989	2020	application;technology;digital libraries
+10.1145/3498366.3505836	2022	task;context;archives/museums
+10.1145/3498366.3505833	2022	document;type;books
+10.1145/3498366.3505835	2022	task;work;education
+10.1145/3498366.3505835	2022	task;work;search-as-learning
+10.1145/3498366.3505837	2022	document;genre;domain-agnostic
+10.1145/3498366.3505837	2022	application;technology;life-logging
+10.1145/3498366.3505791	2022	document;genre;music
+10.1145/3498366.3505829	2022	task;iir;cross-session search
+10.1145/3498366.3505829	2022	document;genre;domain-agnostic
+10.1145/3498366.3505783	2022	task;work;creativity
+10.1145/3498366.3505783	2022	user;issue;creativity
+10.1145/3498366.3505786	2022	document;topic;health
+10.1145/3498366.3505845	2022	user;group;children
+10.1145/3498366.3505828	2022	task;work;e-commerce
+10.1145/3498366.3505782	2022	task;work;tourism
+10.1145/3498366.3505789	2022	application;technology;conversational agents
+10.1145/3498366.3505827	2022	document;topic;health
+10.1145/3498366.3505827	2022	application;technology;AR/VR
+10.1145/3498366.3505778	2022	document;genre;music
+10.1145/3498366.3505831	2022	document;genre;WWW
+10.1145/3498366.3505830	2022	document;topic;health
+10.1145/3498366.3505832	2022	document;genre;WWW
+10.1145/3498366.3505832	2022	application;technology;conversational agents
+10.1145/3498366.3505832	2022	document;genre;Wikipedia
+10.1145/3498366.3505823	2022	document;issue;misinformation
+10.1145/3498366.3505822	2022	document;issue;misinformation
+10.1145/3498366.3505816	2022	document;genre;domain-agnostic
+10.1145/3498366.3505771	2022	document;genre;WWW
+10.1145/3498366.3505761	2022	task;context;libraries
+10.1145/3498366.3505819	2022	task;work;education
+10.1145/3498366.3505817	2022	task;work;creativity
+10.1145/3498366.3505817	2022	user;issue;creativity
+10.1145/3498366.3505810	2022	document;topic;government
+10.1145/3498366.3505821	2022	document;type;data
+10.1145/3498366.3505818	2022	document;type;literature
+10.1145/3498366.3505812	2022	document;genre;domain-agnostic
+10.1145/3498366.3505813	2022	user;issue;privacy
+10.1145/3498366.3505814	2022	task;work;education
+10.1145/3498366.3505814	2022	document;genre;Wikipedia
+10.1145/3498366.3505769	2022	document;topic;health
+10.1145/3498366.3505824	2022	document;topic;government
+10.1145/3498366.3505820	2022	user;group;older people
+10.1145/3498366.3505809	2022	application;technology;conversational agents
+10.1145/3498366.3505809	2022	task;work;e-commerce
+10.1145/3498366.3505815	2022	document;genre;WWW
+10.1145/3498366.3505815	2022	task;work;crowdsourcing
+10.1145/3498366.3505756	2022	document;topic;health
+10.1145/3498366.3505770	2022	document;genre;WWW
+10.1145/3406522.3446055	2021	application;technology;digital libraries
+10.1145/3406522.3446054	2021	document;genre;domain-agnostic
+10.1145/3406522.3446046	2021	task;work;education
+10.1145/3406522.3446046	2021	task;work;creativity
+10.1145/3406522.3446046	2021	user;issue;creativity
+10.1145/3406522.3446045	2021	document;genre;domain-agnostic
+10.1145/3406522.3446044	2021	document;genre;domain-agnostic
+10.1145/3406522.3446058	2021	user;group;children
+10.1145/3406522.3446041	2021	document;genre;WWW
+10.1145/3406522.3446040	2021	document;genre;WWW
+10.1145/3406522.3446040	2021	user;group;LGBTQ+
+10.1145/3406522.3446039	2021	user;issue;disabilities
+10.1145/3406522.3446039	2021	user;group;disabilities
+10.1145/3406522.3446038	2021	document;genre;WWW
+10.1145/3406522.3446038	2021	application;device;mobile search
+10.1145/3406522.3446037	2021	task;context;libraries
+10.1145/3406522.3446057	2021	application;technology;conversational agents
+10.1145/3406522.3446035	2021	task;work;e-commerce
+10.1145/3406522.3446034	2021	document;genre;domain-agnostic
+10.1145/3406522.3446033	2021	document;genre;music
+10.1145/3406522.3446015	2021	task;work;search-as-learning
+10.1145/3406522.3446025	2021	task;work;education
+10.1145/3406522.3446025	2021	task;work;search-as-learning
+10.1145/3406522.3446029	2021	document;genre;domain-agnostic
+10.1145/3406522.3446012	2021	task;context;learning
+10.1145/3406522.3446032	2021	document;type;books
+10.1145/3406522.3446022	2021	document;type;literature
+10.1145/3406522.3446019	2021	document;genre;news
+10.1145/3406522.3446017	2021	document;topic;health
+10.1145/3406522.3446026	2021	research;IIR
+10.1145/3406522.3446056	2021	document;type;data
+10.1145/3406522.3446013	2021	document;genre;domain-agnostic
+10.1145/3406522.3446024	2021	application;feature;advertising
+10.1145/3406522.3446030	2021	document;genre;WWW
+10.1145/3406522.3446027	2021	document;genre;WWW
+10.1145/3406522.3446028	2021	task;iir;question answering
+10.1145/3406522.3446014	2021	task;work;e-commerce
+10.1145/3406522.3446011	2021	user;issue;privacy
+10.1145/3406522.3446011	2021	document;genre;WWW
+10.1145/3406522.3446031	2021	document;genre;domain-agnostic
+10.1145/3406522.3446023	2021	document;genre;domain-agnostic
+10.1145/3406522.3446021	2021	document;type;movies
+10.1145/3343413.3377986	2020	document;genre;domain-agnostic
+10.1145/3343413.3377985	2020	document;genre;domain-agnostic
+10.1145/3343413.3377984	2020	task;work;research
+10.1145/3343413.3377942	2020	application;technology;conversational agents
+10.1145/3343413.3377941	2020	document;genre;WWW
+10.1145/3343413.3377941	2020	application;technology;conversational agents
+10.1145/3343413.3377940	2020	document;topic;legal
+10.1145/3343413.3377940	2020	task;work;legal
+10.1145/3343413.3378013	2020	document;genre;news
+10.1145/3343413.3378012	2020	document;genre;WWW
+10.1145/3343413.3378012	2020	task;work;search-as-learning
+10.1145/3343413.3378011	2020	document;type;books
+10.1145/3343413.3378010	2020	application;technology;digital libraries
+10.1145/3343413.3378009	2020	application;technology;conversational agents
+10.1145/3343413.3378008	2020	user;issue;disabilities
+10.1145/3343413.3378008	2020	user;group;disabilities
+10.1145/3343413.3378008	2020	application;feature;visualization
+10.1145/3343413.3378007	2020	application;device;mobile search
+10.1145/3343413.3378006	2020	task;work;education
+10.1145/3343413.3378014	2020	document;topic;legal
+10.1145/3343413.3378014	2020	task;work;legal
+10.1145/3343413.3378004	2020	application;technology;recommender systems
+10.1145/3343413.3378003	2020	user;issue;disabilities
+10.1145/3343413.3378003	2020	user;group;disabilities
+10.1145/3343413.3378002	2020	document;topic;health
+10.1145/3343413.3378001	2020	task;work;search-as-learning
+10.1145/3343413.3378000	2020	task;work;education
+10.1145/3343413.3378000	2020	document;genre;WWW
+10.1145/3343413.3378000	2020	task;work;search-as-learning
+10.1145/3343413.3377999	2020	user;group;children
+10.1145/3343413.3377999	2020	document;type;books
+10.1145/3343413.3377998	2020	application;technology;conversational agents
+10.1145/3343413.3377997	2020	document;topic;health
+10.1145/3343413.3377997	2020	user;group;older people
+10.1145/3343413.3378005	2020	user;issue;health;dyslexia
+10.1145/3343413.3378005	2020	user;issue;disabilities;dyslexia
+10.1145/3343413.3377996	2020	document;genre;domain-agnostic
+10.1145/3343413.3377995	2020	document;genre;news
+10.1145/3343413.3377995	2020	document;type;data
+10.1145/3343413.3377994	2020	document;type;3D objects
+10.1145/3343413.3377993	2020	application;technology;conversational agents
+10.1145/3343413.3377992	2020	document;genre;domain-agnostic
+10.1145/3343413.3377991	2020	task;work;education
+10.1145/3343413.3377990	2020	application;device;mobile search
+10.1145/3343413.3377990	2020	application;feature;search engines;advertisement
+10.1145/3343413.3377988	2020	application;feature;real-time summarization
+10.1145/3343413.3377987	2020	task;work;e-commerce
+10.1145/3343413.3377983	2020	task;work;creativity
+10.1145/3343413.3377983	2020	user;issue;creativity
+10.1145/3343413.3377966	2020	document;topic;health
+10.1145/3343413.3377961	2020	document;topic;health
+10.1145/3343413.3377954	2020	document;issue;multilinguality
+10.1145/3343413.3377956	2020	task;work;e-commerce
+10.1145/3343413.3377955	2020	document;genre;domain-agnostic
+10.1145/3343413.3377982	2020	document;genre;domain-agnostic
+10.1145/3343413.3377960	2020	document;genre;domain-agnostic
+10.1145/3343413.3377959	2020	research;process;evaluation
+10.1145/3343413.3377964	2020	application;technology;conversational agents
+10.1145/3343413.3377964	2020	application;technology;recommender systems
+10.1145/3343413.3377964	2020	document;topic;food
+10.1145/3343413.3377976	2020	task;iir;complex search
+10.1145/3343413.3377969	2020	task;work;research
+10.1145/3343413.3377975	2020	document;genre;domain-agnostic
+10.1145/3343413.3377970	2020	document;genre;WWW
+10.1145/3343413.3377977	2020	document;genre;personal information
+10.1145/3343413.3377981	2020	user;issue;trust
+10.1145/3343413.3377980	2020	document;topic;history
+10.1145/3343413.3377980	2020	task;work;history
+10.1145/3343413.3377980	2020	research;issue;ethics
+10.1145/3343413.3377958	2020	document;topic;health
+10.1145/3343413.3377958	2020	user;issue;privacy
+10.1145/3343413.3377973	2020	task;work;creativity
+10.1145/3343413.3377973	2020	user;issue;creativity
+10.1145/3343413.3377953	2020	user;issue;disabilities
+10.1145/3343413.3377953	2020	user;group;disabilities
+10.1145/3343413.3377974	2020	application;technology;conversational agents
+10.1145/3343413.3377967	2020	application;technology;conversational agents
+10.1145/3343413.3377967	2020	document;topic;food
+10.1145/3343413.3377967	2020	document;genre;recipe
+10.1145/3343413.3377967	2020	application;food;recipe recommendation
+10.1145/3343413.3377962	2020	application;technology;conversational agents
+10.1145/3343413.3377978	2020	application;technology;conversational agents
+10.1145/3343413.3377971	2020	application;technology;conversational agents
+10.1145/3343413.3377968	2020	application;technology;conversational agents
+10.1145/3343413.3377963	2020	document;type;audio
+10.1145/3343413.3377957	2020	application;device;mobile search
+10.1145/3343413.3377965	2020	task;work;crowdsourcing
+10.1145/3295750.3298951	2019	document;topic;legal
+10.1145/3295750.3298951	2019	task;work;legal
+10.1145/3295750.3298932	2019	document;genre;domain-agnostic
+10.1145/3176349.3176379	2018	document;type;movies
+10.1145/3176349.3176881	2018	document;topic;health
+10.1145/3295750.3298919	2019	document;topic;health
+10.1145/3295750.3298918	2019	task;work;digital humanities
+10.1145/3295750.3298917	2019	document;genre;WWW
+10.1145/3295750.3298916	2019	document;genre;domain-agnostic
+10.1145/3295750.3298915	2019	document;type;IT
+10.1145/3295750.3298914	2019	document;genre;social media
+10.1145/3295750.3298963	2019	document;topic;health
+10.1145/3295750.3298962	2019	document;topic;government
+10.1145/3295750.3298961	2019	application;technology;conversational agents
+10.1145/3295750.3298961	2019	research;IIR
+10.1145/3295750.3298961	2019	user;issue;memory
+10.1145/3295750.3298960	2019	document;type;e-mail
+10.1145/3295750.3298959	2019	document;genre;WWW
+10.1145/3295750.3298958	2019	document;topic;government
+10.1145/3295750.3298957	2019	research;IIR
+10.1145/3295750.3298956	2019	application;technology;conversational agents
+10.1145/3295750.3298956	2019	task;work;e-commerce
+10.1145/3295750.3298956	2019	task;context;theatre
+10.1145/3295750.3298955	2019	task;iir;question answering
+10.1145/3295750.3298953	2019	task;work;research
+10.1145/3295750.3298952	2019	document;topic;health
+10.1145/3295750.3298952	2019	task;iir;search
+10.1145/3295750.3298950	2019	application;technology;digital library
+10.1145/3295750.3298949	2019	document;genre;domain-agnostic
+10.1145/3295750.3298948	2019	document;genre;WWW
+10.1145/3295750.3298948	2019	research;IIR
+10.1145/3295750.3298948	2019	user;issue;memory
+10.1145/3295750.3298947	2019	document;type;images
+10.1145/3295750.3298946	2019	document;genre;WWW
+10.1145/3295750.3298946	2019	task;iir;question answering
+10.1145/3295750.3298945	2019	document;topic;legal
+10.1145/3295750.3298945	2019	task;work;legal
+10.1145/3295750.3298944	2019	document;topic;social sciences
+10.1145/3295750.3298944	2019	task;work;social sciences
+10.1145/3295750.3298944	2019	document;topic;politics
+10.1145/3295750.3298944	2019	application;technology;Twitter
+10.1145/3295750.3298943	2019	task;work;research
+10.1145/3295750.3298943	2019	application;technology;digital libraries
+10.1145/3295750.3298943	2019	research;IIR
+10.1145/3295750.3298943	2019	task;context;academic search
+10.1145/3295750.3298942	2019	research;process;evaluation
+10.1145/3295750.3298941	2019	document;topic;health
+10.1145/3295750.3298941	2019	document;genre;WWW
+10.1145/3295750.3298954	2019	document;genre;social media
+10.1145/3295750.3298937	2019	task;work;research
+10.1145/3295750.3298937	2019	document;genre;medical
+10.1145/3295750.3298937	2019	task;work;medical
+10.1145/3295750.3298927	2019	document;topic;health
+10.1145/3295750.3298920	2019	document;genre;WWW
+10.1145/3295750.3298930	2019	document;type;images
+10.1145/3295750.3298930	2019	application;feature;visualization
+10.1145/3295750.3298930	2019	document;genre;social media
+10.1145/3295750.3298938	2019	document;genre;domain-agnostic
+10.1145/3295750.3298936	2019	task;work;creativity
+10.1145/3295750.3298936	2019	user;issue;creativity
+10.1145/3295750.3298936	2019	task;iir;search
+10.1145/3295750.3298923	2019	application;device;mobile search
+10.1145/3295750.3298929	2019	document;genre;social media
+10.1145/3295750.3298929	2019	task;work;daily activities
+10.1145/3295750.3298922	2019	document;genre;WWW
+10.1145/3295750.3298925	2019	application;technology;digital libraries
+10.1145/3295750.3298939	2019	user;issue;disabilities
+10.1145/3295750.3298939	2019	user;group;disabilities
+10.1145/3295750.3298939	2019	research;IIR
+10.1145/3295750.3298933	2019	document;topic;health
+10.1145/3295750.3298921	2019	document;genre;WWW
+10.1145/3295750.3298921	2019	document;genre;domain-agnostic
+10.1145/3295750.3298926	2019	document;topic;health
+10.1145/3295750.3298926	2019	document;genre;WWW
+10.1145/3295750.3298926	2019	research;IIR
+10.1145/3295750.3298940	2019	task;context;learning
+10.1145/3295750.3298935	2019	task;context;libraries
+10.1145/3295750.3298931	2019	document;topic;history
+10.1145/3295750.3298931	2019	task;work;history
+10.1145/3295750.3298924	2019	application;technology;conversational agents
+10.1145/3295750.3298928	2019	application;technology;conversational agents
+10.1145/3295750.3298934	2019	application;technology;digital assistant
+10.1145/3176349.3176895	2018	document;genre;domain-agnostic
+10.1145/3176349.3176894	2018	document;topic;health
+10.1145/3176349.3176894	2018	document;genre;personal information
+10.1145/3176349.3176894	2018	application;device;mobile devices
+10.1145/3176349.3176896	2018	research;IIR
+10.1145/3176349.3176893	2018	task;work;e-commerce
+10.1145/3176349.3176893	2018	document;genre;social media
+10.1145/3176349.3176892	2018	document;genre;research data
+10.1145/3176349.3176885	2018	document;genre;music
+10.1145/3176349.3176885	2018	application;technology;recommender systems
+10.1145/3176349.3176888	2018	application;device;mobile devices
+10.1145/3176349.3176888	2018	application;technology;desktop
+10.1145/3176349.3176888	2018	research;process;relevance assessment
+10.1145/3176349.3176870	2018	application;feature;data visualization
+10.1145/3176349.3176886	2018	task;iir;entity search
+10.1145/3176349.3176873	2018	document;topic;legal
+10.1145/3176349.3176873	2018	task;work;legal
+10.1145/3176349.3176882	2018	task;iir;information seeking
+10.1145/3176349.3176884	2018	task;context;learning
+10.1145/3176349.3176890	2018	task;iir;information seeking
+10.1145/3176349.3176872	2018	document;genre;WWW
+10.1145/3176349.3176872	2018	research;IIR
+10.1145/3176349.3176872	2018	application;technology;search engines
+10.1145/3176349.3176887	2018	research;IIR
+10.1145/3176349.3176891	2018	application;device;mobile search
+10.1145/3176349.3176891	2018	application;technology;search engines
+10.1145/3176349.3176874	2018	document;topic;health
+10.1145/3176349.3176874	2018	document;genre;social media
+10.1145/3176349.3176868	2018	application;technology;conversational agents
+10.1145/3176349.3176878	2018	document;genre;WWW
+10.1145/3176349.3176876	2018	document;genre;WWW
+10.1145/3176349.3176876	2018	task;work;search-as-learning
+10.1145/3176349.3176876	2018	research;IIR
+10.1145/3176349.3176880	2018	application;feature;data visualization
+10.1145/3176349.3176880	2018	user;issue;information behavior
+10.1145/3176349.3176880	2018	document;topic;air quality
+10.1145/3176349.3176877	2018	task;context;libraries
+10.1145/3176349.3176877	2018	task;work;research
+10.1145/3176349.3176877	2018	task;iir;search
+10.1145/3176349.3176871	2018	document;genre;WWW
+10.1145/3176349.3176871	2018	application;device;mobile search
+10.1145/3176349.3176871	2018	user;issue;distraction
+10.1145/3176349.3176889	2018	task;work;education
+10.1145/3176349.3176883	2018	user;issue;trust
+10.1145/3176349.3176883	2018	document;topic;government
+10.1145/3176349.3176883	2018	document;topic;finance
+10.1145/3176349.3176883	2018	research;IIR
+10.1145/3176349.3176879	2018	application;technology;conversational agents
+10.1145/3176349.3176869	2018	document;topic;politics
+10.1145/3176349.3176869	2018	document;genre;social media
+10.1145/3176349.3176383	2018	document;issue;multilinguality
+10.1145/3176349.3176396	2018	document;genre;Wikipedia
+10.1145/3176349.3176397	2018	task;work;education
+10.1145/3176349.3176400	2018	document;genre;WWW
+10.1145/3176349.3176384	2018	application;technology;augmented reality
+10.1145/3176349.3176395	2018	application;technology;productivity software
+10.1145/3176349.3176399	2018	user;issue;memory
+10.1145/3176349.3176394	2018	document;genre;WWW
+10.1145/3176349.3176394	2018	document;genre;personal information
+10.1145/3176349.3176394	2018	document;type;e-mail
+10.1145/3176349.3176394	2018	application;device;mobile devices
+10.1145/3176349.3176394	2018	document;type;images
+10.1145/3176349.3176392	2018	application;technology;Twitter
+10.1145/3176349.3176398	2018	document;type;e-mail
+10.1145/3176349.3176391	2018	task;work;design
+10.1145/3176349.3176385	2018	task;context;libraries
+10.1145/3176349.3176390	2018	document;genre;domain-agnostic
+10.1145/3176349.3176382	2018	document;genre;WWW
+10.1145/3176349.3176382	2018	research;IIR
+10.1145/3176349.3176382	2018	task;iir;search
+10.1145/3176349.3176382	2018	document;topic;journalism
+10.1145/3176349.3176389	2018	document;genre;domain-agnostic
+10.1145/3176349.3176389	2018	research;IIR
+10.1145/3176349.3176389	2018	research;issue;proactive IR
+10.1145/3176349.3176389	2018	application;feature;proactive IR
+10.1145/3176349.3176380	2018	task;iir;collaborative search
+10.1145/3176349.3176380	2018	application;technology;conversational agents
+10.1145/3176349.3176388	2018	application;technology;conversational agents
+10.1145/3176349.3176387	2018	document;genre;WWW
+10.1145/3176349.3176387	2018	application;technology;conversational agents
+10.1145/3176349.3176387	2018	task;iir;collaborative search
+10.1145/3176349.3176386	2018	task;context;learning
+10.1145/3176349.3176377	2018	document;genre;WWW
+10.1145/3176349.3176381	2018	document;genre;WWW
+10.1145/3176349.3176381	2018	application;technology;search engines
+10.1145/3020165.3022160	2017	task;context;archives/museums
+10.1145/3020165.3022160	2017	user;issue;user behavior
+10.1145/3020165.3022159	2017	task;context;libraries
+10.1145/3020165.3022159	2017	document;type;books
+10.1145/3020165.3022158	2017	task;work;education
+10.1145/3020165.3022158	2017	task;work;reading
+10.1145/3020165.3022157	2017	user;group;children
+10.1145/3020165.3022157	2017	document;genre;WWW
+10.1145/3020165.3022157	2017	application;technology;search engines
+10.1145/3020165.3022156	2017	task;iir;exploratory search
+10.1145/3020165.3022156	2017	document;type;patents
+10.1145/3020165.3022155	2017	document;topic;politics
+10.1145/3020165.3022155	2017	application;technology;recommender systems
+10.1145/3020165.3022155	2017	task;iir;exploratory search
+10.1145/3020165.3022154	2017	document;genre;domain-agnostic
+10.1145/3020165.3022153	2017	task;context;archives/museums
+10.1145/3020165.3022152	2017	task;work;e-commerce
+10.1145/3020165.3022152	2017	application;technology;recommender systems
+10.1145/3020165.3022151	2017	research;IIR
+10.1145/3020165.3022151	2017	task;iir;information seeking
+10.1145/3020165.3022150	2017	task;iir;search
+10.1145/3020165.3022150	2017	application;technology;search assistance
+10.1145/3020165.3022149	2017	application;technology;conversational agents
+10.1145/3020165.3022149	2017	task;work;DIY
+10.1145/3020165.3022149	2017	document;type;games
+10.1145/3020165.3022148	2017	research;IIR
+10.1145/3020165.3022148	2017	application;technology;search engines
+10.1145/3020165.3022147	2017	application;feature;visualization
+10.1145/3020165.3022147	2017	document;genre;research data
+10.1145/3020165.3022146	2017	document;genre;WWW
+10.1145/3020165.3022145	2017	task;work;education
+10.1145/3020165.3022145	2017	task;iir;question answering
+10.1145/3020165.3022144	2017	application;technology;conversational agents
+10.1145/3020165.3022143	2017	document;type;videos
+10.1145/3020165.3022143	2017	document;genre;TV
+10.1145/3020165.3022142	2017	user;issue;information literacy
+10.1145/3020165.3022141	2017	document;genre;domain-agnostic
+10.1145/3020165.3022141	2017	research;IIR
+10.1145/3020165.3022140	2017	document;type;text
+10.1145/3020165.3022139	2017	task;work;research
+10.1145/3020165.3022139	2017	task;work;digital humanities
+10.1145/3020165.3022139	2017	document;type;audio visual
+10.1145/3020165.3022138	2017	document;genre;WWW
+10.1145/3020165.3022138	2017	document;genre;domain-agnostic
+10.1145/3020165.3022137	2017	document;genre;social media
+10.1145/3020165.3022136	2017	document;genre;WWW
+10.1145/3020165.3022136	2017	application;device;mobile search
+10.1145/3020165.3022136	2017	user;issue;distraction
+10.1145/3020165.3022135	2017	document;genre;WWW
+10.1145/3020165.3022135	2017	user;group;older people
+10.1145/3020165.3022134	2017	document;topic;health
+10.1145/3020165.3022133	2017	document;issue;multilinguality
+10.1145/3020165.3022133	2017	application;technology;e-services
+10.1145/3020165.3022133	2017	user;issue;information literacy
+10.1145/3020165.3022132	2017	task;context;libraries
+10.1145/3020165.3022132	2017	application;technology;digital libraries
+10.1145/3020165.3022132	2017	user;issue;serendipity
+10.1145/3020165.3022131	2017	document;type;images
+10.1145/3020165.3022129	2017	application;technology;intranet
+10.1145/3020165.3022129	2017	application;feature;query suggestion
+10.1145/3020165.3022128	2017	application;technology;search engines
+10.1145/3020165.3022124	2017	application;technology;digital libraries
+10.1145/3020165.3022124	2017	user;issue;serendipity
+10.1145/3020165.3022127	2017	document;topic;health
+10.1145/3020165.3022127	2017	application;feature;summarization
+10.1145/3020165.3022126	2017	document;issue;multilinguality
+10.1145/3020165.3022126	2017	document;issue;CLIR
+10.1145/3020165.3022126	2017	research;issue;CLIR
+10.1145/3020165.3022125	2017	document;topic;health
+10.1145/3020165.3020171	2017	task;iir;collaborative search
