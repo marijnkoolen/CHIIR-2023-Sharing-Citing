@@ -7,7 +7,7 @@ Analysis of collaboration, citation, sharing and reuse of Information Interactio
 			variants collapsed, and Marijns paper metadata added (long, short, 
 			demo, etc).
 
-- ``all-authors.tsv`:Tidy subset of all-data.tsv with three columns (DOI, year, author) 					
+- `all-authors.tsv`:Tidy subset of all-data.tsv with three columns (DOI, year, author) 					
 			with one row per author.
 
 - `all-codes.tsv`: Tidy subset of all-data.tsv with three columns (DOI, year, code) 
