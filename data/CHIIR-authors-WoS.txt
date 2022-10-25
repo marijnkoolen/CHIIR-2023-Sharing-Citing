@@ -1,0 +1,2277 @@
+AF Liu, Jingjing
+    Li, Yuan
+UT 10.1145/3176349.3176875
+ER
+
+AF Jachja, Tiffany
+    Douglas, Oard W.
+UT 10.1145/3020165.3022130
+ER
+
+AF Hoeber, Orland
+    Sarkar, Anoop
+    Vacariu, Andrei
+    Whitney, Max
+    Gaikwad, Manali
+    Kaur, Gursimran
+UT 10.1145/3020165.3020178
+ER
+
+AF Ghosh, Debanjan
+UT 10.1145/2854946.2855001
+ER
+
+AF Sarrafzadeh, Bahareh
+    Vtyurina, Alexandra
+    Lank, Edward
+    Vechtomova, Olga
+UT 10.1145/2854946.2854958
+ER
+
+AF Htun, Nyi Nyi
+    Halvey, Martin
+    Baillie, Lynne
+UT 10.1145/3020165.3020172
+ER
+
+AF Narang, Kanika
+    Dumais, Susan
+    Craswell, Nick
+    Liebling, Dan
+    Ai, Qingyao
+UT 10.1145/3020165.3020175
+ER
+
+AF Bota, Horatiu
+    Bennett, Paul N.
+    Awadallah, Ahmed Hassan
+    Dumais, Susan
+UT 10.1145/3020165.3020189
+ER
+
+AF O'Brien, Heather
+    McKay, Jocelyn
+    Vangeest, Jacob
+UT 10.1145/3020165.3020166
+ER
+
+AF Novin, Alamir
+    Meyers, Eric
+UT 10.1145/3020165.3020185
+ER
+
+AF Le, Long T.
+    Shah, Chirag
+    Choi, Erik
+UT 10.1145/3020165.3020181
+ER
+
+AF Badache, Ismail
+    Boughanem, Mohand
+UT 10.1145/3020165.3020177
+ER
+
+AF Wilson, Max L.
+UT 10.1145/3020165.3020169
+ER
+
+AF Jiang, Jiepu
+    He, Daqing
+    Kelly, Diane
+    Allan, James
+UT 10.1145/3020165.3020176
+ER
+
+AF Luo, Cheng
+    Li, Xue
+    Liu, Yiqun
+    Sakai, Tetsuya
+    Zhang, Fan
+    Zhang, Min
+    Ma, Shaoping
+UT 10.1145/3020165.3020184
+ER
+
+AF Radlinski, Filip
+    Craswell, Nick
+UT 10.1145/3020165.3020183
+ER
+
+AF Singh, Jaspreet
+    Zerr, Sergej
+    Siersdorfer, Stefan
+UT 10.1145/3020165.3020182
+ER
+
+AF Kim, Jaewon
+    Thomas, Paul
+    Sankaranarayana, Ramesh
+    Gedeon, Tom
+    Yoon, Hwan-Jin
+UT 10.1145/3020165.3020173
+ER
+
+AF Kotzyba, Michael
+    Gossen, Tatiana
+    Schwerdt, Johannes
+    Nurnberger, Andreas
+UT 10.1145/3020165.3020180
+ER
+
+AF He, Jiyin
+    Yilmaz, Emine
+UT 10.1145/3020165.3020188
+ER
+
+AF Klouche, Khalil
+    Ruotsalo, Tuukka
+    Micallef, Luana
+    Andolina, Salvatore
+    Jacucci, Giulio
+UT 10.1145/3020165.3020174
+ER
+
+AF McKay, Dana
+    Chang, Shanton
+    Smith, Wally
+UT 10.1145/3020165.3020179
+ER
+
+AF Buchanan, George R.
+    McKay, Dana
+UT 10.1145/3020165.3020187
+ER
+
+AF O'Brien, Heather
+    McCay-Peet, Lori
+UT 10.1145/3020165.3020167
+ER
+
+AF Papoutsaki, Alexandra
+    Laskey, James
+    Huang, Jeff
+UT 10.1145/3020165.3020170
+ER
+
+AF Hienert, Daniel
+UT 10.1145/3020165.3020168
+ER
+
+AF Verma, Manisha
+    Yilmaz, Emine
+UT 10.1145/2854946.2854997
+ER
+
+AF Turquois, Chloe
+    Hermant, Martin
+    Gomez-Marin, Daniel
+    Jorda, Sergi
+UT 10.1145/2854946.2854996
+ER
+
+AF Thomas, Paul
+    O'Brien, Heather
+    Rowlands, Tom
+UT 10.1145/2854946.2854988
+ER
+
+AF Sun, Yalin
+    Zhang, Yan
+UT 10.1145/2854946.2854989
+ER
+
+AF Smucker, Mark
+    Clarke, Charles L. A.
+UT 10.1145/2854946.2854981
+ER
+
+AF Mosaly, Prithima Reddy
+    Mazur, Lukasz
+    Marks, Lawrence B.
+UT 10.1145/2854946.2854985
+ER
+
+AF Qiying, Weng
+    Halvey, Martin
+    Villa, Robert
+UT 10.1145/2854946.2854980
+ER
+
+AF Poursardar, Faryaneh
+    Shipman, Frank
+UT 10.1145/2854946.2854982
+ER
+
+AF Oard, Douglas W.
+    Sankepally, Rashmi
+    White, Jerome
+    Harman, Craig
+UT 10.1145/2854946.2854987
+ER
+
+AF Mehrotra, Rishabh
+    Bhattacharya, Prasanta
+    Yilmaz, Emine
+UT 10.1145/2854946.2855006
+ER
+
+AF Luo, Cheng
+    Zhang, Fan
+    Li, Xue
+    Liu, Yiqun
+    Zhang, Min
+    Ma, Shaoping
+    Yang, Delin
+UT 10.1145/2854946.2854994
+ER
+
+AF Liu, Jingjing
+    Albright, Kendra
+    Zamir, Hassan
+UT 10.1145/2854946.2854986
+ER
+
+AF Jiang, Jiepu
+    Allan, James
+UT 10.1145/2854946.2855005
+ER
+
+AF Jayarathna, Sampath
+    Shipman, Frank
+UT 10.1145/2854946.2854992
+ER
+
+AF Hashemi, Seyyed Hadi
+    Hupperetz, Wim
+    Kamps, Jaap
+    van der Vaart, Merel
+UT 10.1145/2854946.2855004
+ER
+
+AF Gopi, Radhika
+    Hoeber, Orland
+UT 10.1145/2854946.2854991
+ER
+
+AF Gonzalez-Ibanez, Roberto
+    Varela-Otarola, Jose Luis
+    Barrera-Pulgar, Carlos
+UT 10.1145/2854946.2854998
+ER
+
+AF Gonzalez-Ibanez, Roberto
+    Barrera-Pulgar, Carlos
+    Varela-Otarola, Jose Luis
+UT 10.1145/2854946.2854999
+ER
+
+AF Gade, Maria
+    Hall, Mark
+UT 10.1145/2854946.2854990
+ER
+
+AF Fujie, Shinya
+    Fukuoka, Ishin
+    Mugita, Asumi
+    Takatsu, Hiroaki
+    Hayashi, Yoshihiko
+    Kobayashi, Tetsunori
+UT 10.1145/2854946.2854995
+ER
+
+AF Edwards, Ashlee
+    Kelly, Diane
+UT 10.1145/2854946.2855000
+ER
+
+AF Dehghani, Mostafa
+    Azarbonyad, Hosein
+    Kamps, Jaap
+    Marx, Maarten
+UT 10.1145/2854946.2855003
+ER
+
+AF Brennan, Kathy
+    Kelly, Diane
+    Zhang, Yinglong
+UT 10.1145/2854946.2855002
+ER
+
+AF Bailey, Earl
+    Kelly, Diane
+UT 10.1145/2854946.2854983
+ER
+
+AF Al-Harbi, Aiman L.
+    Smucker, Mark
+UT 10.1145/2854946.2854993
+ER
+
+AF Bhattacharya, Prasanta
+    Mehrotra, Rishabh
+UT 10.1145/2854946.2854974
+ER
+
+AF Bakharia, Aneesha
+    Bruza, Peter
+    Watters, Jim
+    Narayan, Bhuva
+    Sitbon, Laurianne
+UT 10.1145/2854946.2854960
+ER
+
+AF McKay, Dana
+    Buchanan, George
+UT 10.1145/2854946.2854970
+ER
+
+AF Hagen, Matthias
+    Potthast, Martin
+    Volske, Michael
+    Gomoll, Jakob
+    Stein, Benno
+UT 10.1145/2854946.2854969
+ER
+
+AF Singh, Jaspreet
+    Nejdl, Wolfgang
+    Anand, Avishek
+UT 10.1145/2854946.2854959
+ER
+
+AF Wakeling, Simon
+    Halvey, Martin
+    Villa, Robert
+    Hasler, Laura
+UT 10.1145/2854946.2854968
+ER
+
+AF Collins-Thompson, Kevyn
+    Rieh, Soo Young
+    Haynes, Carl C.
+    Syed, Rohail
+UT 10.1145/2854946.2854972
+ER
+
+AF Hienert, Daniel
+    Mutschke, Peter
+UT 10.1145/2854946.2854962
+ER
+
+AF Crescenzi, Anita
+    Kelly, Diane
+    Azzopardi, Leif
+UT 10.1145/2854946.2854976
+ER
+
+AF Bota, Horatiu
+    Zhou, Ke
+    Jose, Joemon M.
+UT 10.1145/2854946.2854967
+ER
+
+AF Kiseleva, Julia
+    Williams, Kyle
+    Jiang, Jiepu
+    Hassan Awadallah, Ahmed
+    Crook, Aidan C.
+    Zitouni, Imed
+    Anastasakos, Tasos
+UT 10.1145/2854946.2854961
+ER
+
+AF Jiang, Jiepu
+    Ni, Chaoqun
+UT 10.1145/2854946.2854978
+ER
+
+AF Smith, Catherine
+    Gwizdka, Jacek
+    Feild, Henry
+UT 10.1145/2854946.2854975
+ER
+
+AF Lykke, Marianne
+    Jantzen, Christian
+UT 10.1145/2854946.2854965
+ER
+
+AF O'Brien, Heather
+    Freund, Luanne
+    Kopak, Richard
+UT 10.1145/2854946.2854973
+ER
+
+AF Mostafa, Javed
+    Gwizdka, Jacek
+UT 10.1145/2854946.2854979
+ER
+
+AF Vinjumur, Jyothi K.
+    Oard, Douglas W.
+    Axelrod, Amittai
+UT 10.1145/2854946.2854964
+ER
+
+AF Bateman, Scott
+    Gutwin, Carl
+UT 10.1145/2854946.2854977
+ER
+
+AF Han, Shuguang
+    He, Daqing
+    Yue, Zhen
+    Jiang, Jiepu
+UT 10.1145/2854946.2854963
+ER
+
+AF Abela, Charlie
+    Staff, Chris
+UT 10.1145/2854946.2854966
+ER
+
+AF Tran, Tuan A.
+    Schwarz, Sven
+    Niederee, Claudia
+    Maus, Heiko
+    Kanhabua, Nattiya
+UT 10.1145/2854946.2854971
+ER
+
+AF Huurdeman, Hugo
+    Wilson, Max L.
+    Kamps, Jaap
+UT 10.1145/2854946.2854957
+ER
+
+AF Schultheiss, Sebastian
+    Haussler, Helena
+    Lewandowski, Dirk
+UT 10.1145/3498366.3505811
+ER
+
+AF Valdunciel, Pablo
+    Bhatti, Omair Shahzad
+    Barz, Michael
+    Sonntag, Daniel
+UT 10.1145/3498366.3505834
+ER
+
+AF Yi, Siqi
+    Zhang, Yan
+    B. Trace, Ciaran
+    Yvette Williams-Brown, Marian
+UT 10.1145/3498366.3505781
+ER
+
+AF Zdanovic, Dominyk
+    Lembcke, Tanja Julie
+    Bogers, Toine
+UT 10.1145/3498366.3505755
+ER
+
+AF Chang, Yung-Sheng
+    Gwizdka, Jacek
+UT 10.1145/3498366.3505825
+ER
+
+AF Bink, Markus
+    Zimmerman, Steven
+    Elsweiler, David
+UT 10.1145/3498366.3505766
+ER
+
+AF Papenmeier, Andrea
+    Kern, Dagmar
+    Hienert, Daniel
+    Sliwa, Alfred
+    Aker, Ahmet
+    Fuhr, Norbert
+UT 10.1145/3406522.3446043
+ER
+
+AF Medlar, Alan
+    Li, Jing
+    Glowacka, Dorota
+UT 10.1145/3406522.3446020
+ER
+
+AF Sitbon, Laurianne
+    Favre, Benoit
+    Brereton, Margot
+    Koplick, Stewart
+    Fell, Lauren
+UT 10.1145/3343413.3377972
+ER
+
+AF O'Brien, Heather
+    Kampen, Andrea
+    Cole, Amelia
+    Brennan, Kathleen
+UT 10.1145/3343413.3377989
+ER
+
+AF Kiesel, Johannes
+    Bernhard, Volker
+    Gohsen, Marcel
+    Roth, Josef
+    Stein, Benno
+UT 10.1145/3498366.3505836
+ER
+
+AF Kotkov, Denis
+    Medlar, Alan
+    Maslov, Alexandr
+    Satyal, Umesh Raj
+    Neovius, Mats
+    Glowacka, Dorota
+UT 10.1145/3498366.3505833
+ER
+
+AF Otto, Christian
+    Rokicki, Markus
+    Pardi, Georg
+    Gritz, Wolfgang
+    Hienert, Daniel
+    Yu, Ran
+    von Hoyer, Johannes
+    Hoppe, Anett
+    Dietze, Stefan
+    Holtz, Peter
+    Kammerer, Yvonne
+    Ewerth, Ralph
+UT 10.1145/3498366.3505835
+ER
+
+AF Li, Jiayu
+    Zhang, Hantian
+    He, Zhiyu
+    Xu, Rongwu
+    Wu, Pingfei
+    Zhang, Min
+    Liu, Yiqun
+    Ma, Shaoping
+UT 10.1145/3498366.3505837
+ER
+
+AF Schedl, Markus
+    Brandl, Stefan
+    Lesota, Oleg
+    Parada-Cabaleiro, Emilia
+    Penz, David
+    Rekabsaz, Navid
+UT 10.1145/3498366.3505791
+ER
+
+AF Li, Yuan
+    Capra, Rob
+UT 10.1145/3498366.3505829
+ER
+
+AF Chavula, Catherine
+    Choi, Yujin
+    Rieh, Soo Young
+UT 10.1145/3498366.3505783
+ER
+
+AF Shi, Li
+    Bhattacharya, Nilavra
+    Das, Anubrata
+    Lease, Matt
+    Gwizdka, Jacek
+UT 10.1145/3498366.3505786
+ER
+
+AF Landoni, Monica
+    Aliannejadi, Mohammad
+    Huibers, Theo
+    Murgia, Emiliana
+    Pera, Maria Soledad
+UT 10.1145/3498366.3505845
+ER
+
+AF Penha, Gustavo
+    Krikon, Eyal
+    Murdock, Vanessa
+UT 10.1145/3498366.3505828
+ER
+
+AF Du, Jia Tina
+UT 10.1145/3498366.3505782
+ER
+
+AF Volokhin, Sergey
+    Collins, Marcus
+    Rokhlenko, Oleg
+    Agichtein, Eugene
+UT 10.1145/3498366.3505789
+ER
+
+AF Chris Zhao, Yuxiang
+    Lian, Jingwen
+    Song, Shijie
+    Ying, Jun
+UT 10.1145/3498366.3505827
+ER
+
+AF Porcaro, Lorenzo
+    Gomez, Emilia
+    Castillo, Carlos
+UT 10.1145/3498366.3505778
+ER
+
+AF Crescenzi, Anita
+    Li, Lan
+UT 10.1145/3498366.3505831
+ER
+
+AF Xing, Zhaopeng
+    Yuan, Xiaojun
+    Mostafa, Javed
+UT 10.1145/3498366.3505830
+ER
+
+AF Bondarenko, Alexander
+    Shirshakova, Ekaterina
+    Hagen, Matthias
+UT 10.1145/3498366.3505832
+ER
+
+AF Buchanan, George
+    Kelly, Ryan
+    Makri, Stephann
+    McKay, Dana
+UT 10.1145/3498366.3505823
+ER
+
+AF McKay, Dana
+    Owyong, Kaipin
+    Makri, Stephann
+    Gutierrez-Lopez, Marisela
+UT 10.1145/3498366.3505822
+ER
+
+AF Shah, Chirag
+    Bender, Emily M.
+UT 10.1145/3498366.3505816
+ER
+
+AF Steichen, Ben
+    Kosasih, Wilsen
+    Becerra, Christian
+UT 10.1145/3498366.3505771
+ER
+
+AF O'Brien, Heather
+    Cole, Amelia
+    Kampen, Andrea
+    Brennan, Kathy
+UT 10.1145/3498366.3505761
+ER
+
+AF Smith, Catherine
+    Urgo, Kelsey
+    Arguello, Jaime
+    Capra, Rob
+UT 10.1145/3498366.3505819
+ER
+
+AF Li, Yuan
+    Zhang, Yinglong
+    Capra, Rob
+UT 10.1145/3498366.3505817
+ER
+
+AF Choi, Bogeum
+    Casteel, Sarah
+    Capra, Rob
+    Arguello, Jaime
+UT 10.1145/3498366.3505810
+ER
+
+AF Ibanez, Luis-Daniel
+    Simperl, Elena
+UT 10.1145/3498366.3505821
+ER
+
+AF Soufan, Ayah
+    Ruthven, Ian
+    Azzopardi, Leif
+UT 10.1145/3498366.3505818
+ER
+
+AF Draws, Tim
+    Inel, Oana
+    Tintarev, Nava
+    Baden, Christian
+    Timmermans, Benjamin
+UT 10.1145/3498366.3505812
+ER
+
+AF Windl, Maximiliane
+    Ortloff, Anna-Marie
+    Henze, Niels
+    Schwind, Valentin
+UT 10.1145/3498366.3505813
+ER
+
+AF Perez Ortiz, Maria
+    Bulathwela, Sahan
+    Dormann, Claire
+    Verma, Meghana
+    Kreitmayer, Stefan
+    Noss, Richard
+    Shawe-Taylor, John
+    Rogers, Yvonne
+    Yilmaz, Emine
+UT 10.1145/3498366.3505814
+ER
+
+AF Liu, Ying-Hsang
+    Thomas, Paul
+    Gedeon, Tom
+    Rusnachenko, Nicolay
+UT 10.1145/3498366.3505769
+ER
+
+AF Narvala, Hitarth
+    McDonald, Graham
+    Ounis, Iadh
+UT 10.1145/3498366.3505824
+ER
+
+AF Wei, Winter
+    Munteanu, Cosmin
+    Halvey, Martin
+UT 10.1145/3498366.3505820
+ER
+
+AF Papenmeier, Andrea
+    Frummet, Alexander
+    Kern, Dagmar
+UT 10.1145/3498366.3505809
+ER
+
+AF Thomas, Paul
+    Kazai, Gabriella
+    White, Ryen
+    Craswell, Nick
+UT 10.1145/3498366.3505815
+ER
+
+AF Huang, Yue
+    Obada-Obieh, Borke
+    Redmiles, Elissa M.
+    Lokam, Satya
+    Beznosov, Konstantin
+UT 10.1145/3498366.3505756
+ER
+
+AF Abualsaud, Mustafa
+    Smucker, Mark
+UT 10.1145/3498366.3505770
+ER
+
+AF Gomes, Sebastian
+    Hoeber, Orland
+UT 10.1145/3406522.3446055
+ER
+
+AF Benham, Rodger
+    Mackenzie, Joel
+    Culpepper, J. Shane
+    Moffat, Alistair
+UT 10.1145/3406522.3446054
+ER
+
+AF Palani, Srishti
+    Ding, Zijian
+    MacNeil, Stephen
+    Dow, Steven P.
+UT 10.1145/3406522.3446046
+ER
+
+AF Shah, Chirag
+    White, Ryen
+UT 10.1145/3406522.3446045
+ER
+
+AF Li, Yuan
+    Ward, Austin R.
+    Capra, Rob
+UT 10.1145/3406522.3446044
+ER
+
+AF Aliannejadi, Mohammad
+    Landoni, Monica
+    Huibers, Theo
+    Murgia, Emiliana
+    Pera, Maria Soledad
+UT 10.1145/3406522.3446058
+ER
+
+AF Abualsaud, Mustafa
+    Smucker, Mark
+    Clarke, Charles L. A.
+UT 10.1145/3406522.3446041
+ER
+
+AF Jia, Romy Menghao
+    Du, Jia Tina
+    Zhao, Yuxiang Chris
+UT 10.1145/3406522.3446040
+ER
+
+AF Balasuriya, Saminda Sundeepa
+    Sitbon, Laurianne
+    Zhang, Jinglan
+    Anuar, Khairi
+UT 10.1145/3406522.3446039
+ER
+
+AF Arapakis, Ioannis
+    Park, Souneil
+    Pielot, Martin
+UT 10.1145/3406522.3446038
+ER
+
+AF Shukla, Soumya
+    Hoeber, Orland
+UT 10.1145/3406522.3446037
+ER
+
+AF Ghosh, Souvick
+    Ghosh, Satanu
+UT 10.1145/3406522.3446057
+ER
+
+AF Papenmeier, Andrea
+    Kern, Dagmar
+    Hienert, Daniel
+    Sliwa, Alfred
+    Aker, Ahmet
+    Fuhr, Norbert
+UT 10.1145/3406522.3446035
+ER
+
+AF Repke, Tim
+    Krestel, Ralf
+UT 10.1145/3406522.3446034
+ER
+
+AF Ferraro, Andres
+    Serra, Xavier
+    Bauer, Christine
+UT 10.1145/3406522.3446033
+ER
+
+AF Liu, Jiqun
+    Jung, Yong Ju
+UT 10.1145/3406522.3446015
+ER
+
+AF Roy, Nirmal
+    Torre, Manuel Valle
+    Gadiraju, Ujwal
+    Maxwell, David
+    Hauff, Claudia
+UT 10.1145/3406522.3446025
+ER
+
+AF Choi, Bogeum
+    Arguello, Jaime
+    Capra, Rob
+    Ward, Austin R.
+UT 10.1145/3406522.3446029
+ER
+
+AF Camara, Arthur
+    Roy, Nirmal
+    Maxwell, David
+    Hauff, Claudia
+UT 10.1145/3406522.3446012
+ER
+
+AF McKay, Dana
+    Twidale, Michael B.
+    Buchanan, George
+UT 10.1145/3406522.3446032
+ER
+
+AF Zhang, Huiwen
+    McKay, Dana
+    Buchanan, George
+UT 10.1145/3406522.3446022
+ER
+
+AF Vrijenhoek, Sanne
+    Kaya, Mesut
+    Metoui, Nadia
+    Moller, Judith
+    Odijk, Daan
+    Helberger, Natali
+UT 10.1145/3406522.3446019
+ER
+
+AF Niu, Xi
+    Al-Doulat, Ahmad
+UT 10.1145/3406522.3446017
+ER
+
+AF McGregor, Molly
+    Azzopardi, Leif
+    Halvey, Martin
+UT 10.1145/3406522.3446026
+ER
+
+AF Gade, Maria
+    Koolen, Marijn
+    Hall, Mark
+    Bogers, Toine
+    Petras, Vivien
+UT 10.1145/3406522.3446056
+ER
+
+AF Heck, Melanie
+    Edinger, Janick
+    Bunemann, Jonathan
+    Becker, Christian
+UT 10.1145/3406522.3446013
+ER
+
+AF Foulds, Olivia
+    Azzopardi, Leif
+    Halvey, Martin
+UT 10.1145/3406522.3446024
+ER
+
+AF Crescenzi, Anita
+    Capra, Rob
+    Choi, Bogeum
+    Li, Yuan
+UT 10.1145/3406522.3446030
+ER
+
+AF Cambazoglu, B. Barla
+    Tavakoli, Leila
+    Scholer, Falk
+    Sanderson, Mark
+    Croft, Bruce
+UT 10.1145/3406522.3446027
+ER
+
+AF Cambazoglu, B. Barla
+    Baranova, Valeriia
+    Scholer, Falk
+    Sanderson, Mark
+    Tavakoli, Leila
+    Croft, Bruce
+UT 10.1145/3406522.3446028
+ER
+
+AF Ortloff, Anna-Marie
+    Zimmerman, Steven
+    Elsweiler, David
+    Henze, Niels
+UT 10.1145/3406522.3446014
+ER
+
+AF Leiva, Luis A.
+    Arapakis, Ioannis
+    Iordanou, Costas
+UT 10.1145/3406522.3446011
+ER
+
+AF Sinnamon, Luanne
+    Tamim, Limor
+    Dodson, Samuel
+    O'Brien, Heather
+UT 10.1145/3406522.3446031
+ER
+
+AF Azzopardi, Leif
+UT 10.1145/3406522.3446023
+ER
+
+AF Lopatovska, Irene
+    Korshakova, Elena
+    Brown, Diedre
+    Li, Yiqiao
+    Min, Jie
+    Pasiak, Amber
+    Zheng, Kaige
+UT 10.1145/3406522.3446018
+ER
+
+AF Arguello, Jaime
+    Ferguson, Adam
+    Fine, Emery
+    Mitra, Bhaskar
+    Zamani, Hamed
+    Diaz, Fernando
+UT 10.1145/3406522.3446021
+ER
+
+AF Gauthier, Jean-Philippe
+    Roegiest, Adam
+UT 10.1145/3343413.3377986
+ER
+
+AF Costa, Luca
+    Aliannejadi, Mohammad
+    Crestani, Fabio
+UT 10.1145/3343413.3377985
+ER
+
+AF Hall, Mark
+    Bogers, Toine
+UT 10.1145/3343413.3377984
+ER
+
+AF Kaushik, Abhishek
+    Bhat Ramachandra, Vishal
+    Jones, Gareth J. F.
+UT 10.1145/3343413.3377942
+ER
+
+AF Avula, Sandeep
+    Arguello, Jaime
+UT 10.1145/3343413.3377941
+ER
+
+AF Feild, Henry
+    Amello, Timothy
+    Lombardo, Philip
+UT 10.1145/3343413.3377940
+ER
+
+AF Sahijwani, Harshita
+    Choi, Jason Ingyu
+    Agichtein, Eugene
+UT 10.1145/3343413.3378013
+ER
+
+AF Roy, Nirmal
+    Moraes, Felipe
+    Hauff, Claudia
+UT 10.1145/3343413.3378012
+ER
+
+AF Torbati, Ghazaleh H.
+    Yates, Andrew
+    Weikum, Gerhard
+UT 10.1145/3343413.3378011
+ER
+
+AF Davari, Masoud
+    Hienert, Daniel
+    Kern, Dagmar
+    Dietze, Stefan
+UT 10.1145/3343413.3378010
+ER
+
+AF Choi, Jason Ingyu
+    Agichtein, Eugene
+UT 10.1145/3343413.3378009
+ER
+
+AF Bircanin, Filip
+    Sitbon, Laurianne
+    Favre, Benoit
+    Brereton, Margot
+UT 10.1145/3343413.3378008
+ER
+
+AF Wu, Dan
+    Zhang, Shutian
+UT 10.1145/3343413.3378007
+ER
+
+AF Bartlett, Joan C.
+    Frissen, Ilja
+    Beheshti, Jamshid
+UT 10.1145/3343413.3378006
+ER
+
+AF Mikhail, Mary
+    Roegiest, Adam
+    Anello, Karen
+    Wei, Winter
+UT 10.1145/3343413.3378014
+ER
+
+AF Tian, Mucun
+    Ekstrand, Michael D.
+UT 10.1145/3343413.3378004
+ER
+
+AF Sitbon, Laurianne
+    Favre, Benoit
+    Zhang, Jinglan
+    Bayor, Andrew A.
+    Koplick, Stewart
+    Bircanin, Filip
+    Brereton, Margot
+UT 10.1145/3343413.3378003
+ER
+
+AF Alhassan, Muhammad Abubakar
+    Pennington, Diane
+UT 10.1145/3343413.3378002
+ER
+
+AF Pardi, Georg
+    von Hoyer, Johannes
+    Holtz, Peter
+    Kammerer, Yvonne
+UT 10.1145/3343413.3378001
+ER
+
+AF Demaree, Diego
+    Jarodzka, Halszka
+    Brand-Gruwel, Saskia
+    Kammerer, Yvonne
+UT 10.1145/3343413.3378000
+ER
+
+AF Ma, Yue
+    Wang, Pianran
+    Lu, Jinyi
+UT 10.1145/3343413.3377999
+ER
+
+AF van Zeelt, Mickey
+    den Hengst, Floris
+    Hashemi, Seyyed Hadi
+UT 10.1145/3343413.3377998
+ER
+
+AF Zhang, Yan
+    Song, Shijie
+UT 10.1145/3343413.3377997
+ER
+
+AF Cole, Lynne
+    MacFarlane, Andrew
+    Makri, Stephann
+UT 10.1145/3343413.3378005
+ER
+
+AF Ji, Tianbo
+    Graham, Yvette
+    Jones, Gareth J. F.
+UT 10.1145/3343413.3377996
+ER
+
+AF Arguello, Jaime
+    Capra, Rob
+UT 10.1145/3343413.3377995
+ER
+
+AF Huurdeman, Hugo
+    Piccoli, Chiara
+UT 10.1145/3343413.3377994
+ER
+
+AF Lopatovska, Irene
+UT 10.1145/3343413.3377993
+ER
+
+AF Choi, Bogeum
+    Arguello, Jaime
+UT 10.1145/3343413.3377992
+ER
+
+AF Leigh, Tim
+    Johnson, Frances
+UT 10.1145/3343413.3377991
+ER
+
+AF Alanazi, Afrah Olayan
+    Sanderson, Mark
+    Bao, Zhifeng
+    Kim, Jaewon
+UT 10.1145/3343413.3377990
+ER
+
+AF Sequiera, Royal
+    Tan, Luchen
+    Zhang, Yinan
+    Lin, Jimmy
+UT 10.1145/3343413.3377988
+ER
+
+AF Boteanu, Adrian
+    Dutile, Emily
+    Kiezun, Adam
+    Artzi, Shay
+UT 10.1145/3343413.3377987
+ER
+
+AF McKay, Dana
+    Makri, Stephann
+    Chang, Shanton
+    Buchanan, George
+UT 10.1145/3343413.3377983
+ER
+
+AF Teixeira Lopes, Carla
+    Ramos, Edgar
+UT 10.1145/3343413.3377966
+ER
+
+AF Ghenai, Amira
+    Smucker, Mark
+    Clarke, Charles L. A.
+UT 10.1145/3343413.3377961
+ER
+
+AF Chavula, Catherine
+    Suleman, Hussein
+UT 10.1145/3343413.3377954
+ER
+
+AF Moraes, Felipe
+    Yang, Jie
+    Zhang, Rongting
+    Murdock, Vanessa
+UT 10.1145/3343413.3377956
+ER
+
+AF Vakkari, Pertti
+UT 10.1145/3343413.3377955
+ER
+
+AF Foulds, Olivia
+    Azzopardi, Leif
+    Halvey, Martin
+UT 10.1145/3343413.3377982
+ER
+
+AF Bhattacharya, Nilavra
+    Rakshit, Somnath
+    Gwizdka, Jacek
+    Kogut, Paul
+UT 10.1145/3343413.3377960
+ER
+
+AF Azzopardi, Leif
+    White, Ryen
+    Thomas, Paul
+    Craswell, Nick
+UT 10.1145/3343413.3377959
+ER
+
+AF Nouri, Elnaz
+    Sim, Robert
+    Fourney, Adam
+    White, Ryen
+UT 10.1145/3343413.3377964
+ER
+
+AF Liu, Jiqun
+    Sarkar, Shawon
+    Shah, Chirag
+UT 10.1145/3343413.3377976
+ER
+
+AF Koolen, Marijn
+    Kumpulainen, Sanna
+    Melgar-Estrada, Liliana
+UT 10.1145/3343413.3377969
+ER
+
+AF McKay, Dana
+    Makri, Stephann
+    Gutierrez-Lopez, Marisela
+    MacFarlane, Andrew
+    Missaoui, Sondess
+    Porlezza, Colin
+    Cooper, Glenda
+UT 10.1145/3343413.3377975
+ER
+
+AF Li, Yuan
+    Capra, Rob
+    Zhang, Yinglong
+UT 10.1145/3343413.3377970
+ER
+
+AF Jahanbakhsh, Farnaz
+    Awadallah, Ahmed Hassan
+    Dumais, Susan
+    Xu, Xuhai
+UT 10.1145/3343413.3377977
+ER
+
+AF Fell, Lauren
+    Gibson, Andrew
+    Bruza, Peter
+    Hoyte, Pamela
+UT 10.1145/3343413.3377981
+ER
+
+AF Lin, Jimmy
+    Milligan, Ian
+    Oard, Douglas W.
+    Ruest, Nick
+    Shilton, Katie
+UT 10.1145/3343413.3377980
+ER
+
+AF Zimmerman, Steven
+    Thorpe, Alistair
+    Chamberlain, Jon
+    Kruschwitz, Udo
+UT 10.1145/3343413.3377958
+ER
+
+AF Zhang, Yinglong
+    Capra, Rob
+    Li, Yuan
+UT 10.1145/3343413.3377973
+ER
+
+AF Berget, Gerd
+UT 10.1145/3343413.3377953
+ER
+
+AF Ahmadvand, Ali
+    Sahijwani, Harshita
+    Agichtein, Eugene
+UT 10.1145/3343413.3377974
+ER
+
+AF Barko-Sherif, Sabrina
+    Elsweiler, David
+    Harvey, Morgan
+UT 10.1145/3343413.3377967
+ER
+
+AF Larsen, Helene Hogh
+    Scheel, Alexander Nuka
+    Bogers, Toine
+    Larsen, Birger
+UT 10.1145/3343413.3377962
+ER
+
+AF Kiesel, Johannes
+    Lang, Kevin
+    Wachsmuth, Henning
+    Hornecker, Eva
+    Stein, Benno
+UT 10.1145/3343413.3377978
+ER
+
+AF ter Hoeve, Maartje
+    Sim, Robert
+    Nouri, Elnaz
+    Fourney, Adam
+    de Rijke, Maarten
+    White, Ryen
+UT 10.1145/3343413.3377971
+ER
+
+AF Aliannejadi, Mohammad
+    Chakraborty, Manajit
+    Rissola, Esteban Andres
+    Crestani, Fabio
+UT 10.1145/3343413.3377968
+ER
+
+AF Zhang, Yichi
+    Hu, Junbo
+    Zhang, Yiting
+    Pardo, Bryan
+    Duan, Zhiyao
+UT 10.1145/3343413.3377963
+ER
+
+AF Pandey, Laxmi
+    Alizadeh, Azar
+    Arif, Ahmed Sabbir
+UT 10.1145/3343413.3377957
+ER
+
+AF Kandappu, Thivya
+    Mehrotra, Abhinav
+    Misra, Archan
+    Musolesi, Mirco
+    Cheng, Shih-Fen
+    Meegahapola, Lakmal
+UT 10.1145/3343413.3377965
+ER
+
+AF Wei, Winter
+    Roegiest, Adam
+    Mikhail, Mary
+UT 10.1145/3295750.3298951
+ER
+
+AF Mehrotra, Abhinav
+    Hendley, Robert
+    Musolesi, Mirco
+UT 10.1145/3295750.3298932
+ER
+
+AF Madrazo Azpiazu, Ion
+    Dragovic, Nevena
+    Anuyah, Oghenemaro
+    Pera, Maria Soledad
+UT 10.1145/3176349.3176379
+ER
+
+AF Chi, Yu
+    He, Daqing
+    Han, Shuguang
+    Jiang, Jie
+UT 10.1145/3176349.3176881
+ER
+
+AF Russell-Rose, Tony
+    Chamberlain, Jon
+    Shokraneh, Farhad
+UT 10.1145/3295750.3298919
+ER
+
+AF Melgar-Estrada, Liliana
+    Koolen, Marijn
+    Beelen, Kaspar
+    Huurdeman, Hugo
+    Wigham, Mari
+    Martinez-Ortiz, Carlos
+    Blom, Jaap
+    Ordelman, Roeland
+UT 10.1145/3295750.3298918
+ER
+
+AF Soltani, Diana
+    Mitsui, Matthew
+    Shah, Chirag
+UT 10.1145/3295750.3298917
+ER
+
+AF Schildwachter, Matthias
+    Bondarenko, Alexander
+    Zenker, Julian
+    Hagen, Matthias
+    Biemann, Chris
+    Panchenko, Alexander
+UT 10.1145/3295750.3298916
+ER
+
+AF Grappiolo, Corrado
+    van Gerwen, Emile
+    Verhoosel, Jack
+    Somers, Lou
+UT 10.1145/3295750.3298915
+ER
+
+AF Bouadjenek, Mohamed Reda
+    Sanner, Scott
+UT 10.1145/3295750.3298914
+ER
+
+AF Niu, Xi
+    Abbas, Fakhri
+UT 10.1145/3295750.3298963
+ER
+
+AF McDonald, Graham
+    Macdonald, Craig
+    Ounis, Iadh
+UT 10.1145/3295750.3298962
+ER
+
+AF Kiesel, Johannes
+    Bahrami, Arefeh
+    Stein, Benno
+    Anand, Avishek
+    Hagen, Matthias
+UT 10.1145/3295750.3298961
+ER
+
+AF Sarrafzadeh, Bahareh
+    Awadallah, Ahmed Hassan
+    Shokouhi, Milad
+UT 10.1145/3295750.3298960
+ER
+
+AF Liu, Jiqun
+    Shah, Chirag
+UT 10.1145/3295750.3298959
+ER
+
+AF Xiao, Fanghui
+    He, Daqing
+    Chi, Yu
+    Jeng, Wei
+    Tomer, Christinger
+UT 10.1145/3295750.3298958
+ER
+
+AF Tripathi, Dhruv
+    Medlar, Alan
+    Glowacka, Dorota
+UT 10.1145/3295750.3298957
+ER
+
+AF Elsholz, Ela
+    Chamberlain, Jon
+    Kruschwitz, Udo
+UT 10.1145/3295750.3298956
+ER
+
+AF Sin, Sei-Ching Joanna
+    Chen, Xinran
+UT 10.1145/3295750.3298955
+ER
+
+AF Huang, Chien-yu
+    Casey, Arlene
+    Glowacka, Dorota
+    Medlar, Alan
+UT 10.1145/3295750.3298953
+ER
+
+AF Zimmerman, Steven
+    Thorpe, Alistair
+    Fox, Chris
+    Kruschwitz, Udo
+UT 10.1145/3295750.3298952
+ER
+
+AF Kern, Dagmar
+    Hienert, Daniel
+    Angerbauer, Katrin
+    Dingler, Tilman
+    Borlund, Pia
+UT 10.1145/3295750.3298950
+ER
+
+AF Xu, Luyan
+    Zhou, Xuan
+UT 10.1145/3295750.3298949
+ER
+
+AF Choi, Bogeum
+    Capra, Rob
+    Arguello, Jaime
+UT 10.1145/3295750.3298948
+ER
+
+AF Zurn, Xenia
+    Broekhuijsen, Mendel
+    van Gennip, Domenique
+    Bakker, Saskia
+    Zijlema, Annemarie
+    van den Hoven, Elise
+UT 10.1145/3295750.3298947
+ER
+
+AF Qu, Chen
+    Yang, Liu
+    Croft, W. Bruce
+    Scholer, Falk
+    Zhang, Yongfeng
+UT 10.1145/3295750.3298946
+ER
+
+AF Roegiest, Adam
+    McNulty, Anne
+UT 10.1145/3295750.3298945
+ER
+
+AF Meier, Florian
+    Elsweiler, David
+UT 10.1145/3295750.3298944
+ER
+
+AF Hoeber, Orland
+    Patel, Dolinkumar
+    Storie, Dale
+UT 10.1145/3295750.3298943
+ER
+
+AF Salminen, Joni
+    Sengun, Sercan
+    Jung, Soon-Gyo
+    Jansen, Bernard J.
+UT 10.1145/3295750.3298942
+ER
+
+AF Teixeira Lopes, Carla
+    Sousa, Hugo
+UT 10.1145/3295750.3298941
+ER
+
+AF Salminen, Joni
+    Almerekhi, Hind
+    Kamel, Ahmed Mohamed
+    Jung, Soon-Gyo
+    Jansen, Bernard J.
+UT 10.1145/3295750.3298954
+ER
+
+AF Knight, Ian A.
+    Wilson, Max L.
+    Brailsford, David F.
+    Milic-Frayling, Natasa
+UT 10.1145/3295750.3298937
+ER
+
+AF Teixeira Lopes, Carla
+    Ribeiro, Cristina
+UT 10.1145/3295750.3298927
+ER
+
+AF Yu, Hai-Tao
+    Jatowt, Adam
+    Blanco, Roi
+    Jose, Joemon M.
+    Zhou, Ke
+UT 10.1145/3295750.3298920
+ER
+
+AF Gaikwad, Manali
+    Hoeber, Orland
+UT 10.1145/3295750.3298930
+ER
+
+AF Ruthven, Ian
+UT 10.1145/3295750.3298938
+ER
+
+AF Zhang, Yinglong
+    Capra, Rob
+UT 10.1145/3295750.3298936
+ER
+
+AF Aliannejadi, Mohammad
+    Harvey, Morgan
+    Costa, Luca
+    Pointon, Matthew
+    Crestani, Fabio
+UT 10.1145/3295750.3298923
+ER
+
+AF Benetka, Jan R.
+    Krumm, John
+    Bennett, Paul N.
+UT 10.1145/3295750.3298929
+ER
+
+AF Liu, Jiqun
+    Mitsui, Matthew
+    Belkin, Nicholas J.
+    Shah, Chirag
+UT 10.1145/3295750.3298922
+ER
+
+AF Bogaard, Tessel
+    Hollink, Laura
+    Wielemaker, Jan
+    Hardman, Lynda
+    van Ossenbruggen, Jacco
+UT 10.1145/3295750.3298925
+ER
+
+AF Berget, Gerd
+    MacFarlane, Andrew
+UT 10.1145/3295750.3298939
+ER
+
+AF Rubya, Sabirat
+    Wang, Xizi
+    Yarosh, Svetlana
+UT 10.1145/3295750.3298933
+ER
+
+AF Hienert, Daniel
+    Kern, Dagmar
+    Mitsui, Matthew
+    Shah, Chirag
+    Belkin, Nicholas J.
+UT 10.1145/3295750.3298921
+ER
+
+AF Bhattacharya, Nilavra
+    Gwizdka, Jacek
+UT 10.1145/3295750.3298926
+ER
+
+AF Smith, Catherine
+    Rieh, Soo Young
+UT 10.1145/3295750.3298940
+ER
+
+AF Buchanan, George Robert
+    McKay, Dana
+    Makri, Stephann
+UT 10.1145/3295750.3298935
+ER
+
+AF Korkeamaki, Laura
+    Kumpulainen, Sanna
+UT 10.1145/3295750.3298931
+ER
+
+AF Qu, Chen
+    Yang, Liu
+    Croft, W. Bruce
+    Zhang, Yongfeng
+    Trippas, Johanne R.
+    Qiu, Minghui
+UT 10.1145/3295750.3298924
+ER
+
+AF Avula, Sandeep
+    Arguello, Jaime
+    Capra, Rob
+    Dodson, Jordan
+    Huang, Yuhui
+    Radlinski, Filip
+UT 10.1145/3295750.3298928
+ER
+
+AF Trippas, Johanne R.
+    Spina, Damiano
+    Scholer, Falk
+    Awadallah, Ahmed Hassan
+    Bailey, Peter
+    Bennett, Paul N.
+    White, Ryen
+    Liono, Jonathan
+    Ren, Yongli
+    Salim, Flora D.
+    Sanderson, Mark
+UT 10.1145/3295750.3298934
+ER
+
+AF Pulliza, Jonathan
+    Shah, Chirag
+UT 10.1145/3176349.3176895
+ER
+
+AF Monteiro, Joao M.
+    Lopes, Carla Teixeira
+UT 10.1145/3176349.3176894
+ER
+
+AF Mitsui, Matthew
+    Liu, Jiqun
+    Shah, Chirag
+UT 10.1145/3176349.3176896
+ER
+
+AF Jung, Soon-Gyo
+    Salminen, Joni
+    Kwak, Haewoon
+    An, Jisun
+    Jansen, Bernard J.
+UT 10.1145/3176349.3176893
+ER
+
+AF Espinoza, Fredrik
+    Hamfors, Ola
+    Karlgren, Jussi
+    Olsson, Fredrik
+    Persson, Per
+    Hamberg, Lars
+    Sahlgren, Magnus
+UT 10.1145/3176349.3176892
+ER
+
+AF Volokhin, Sergey
+    Agichtein, Eugene
+UT 10.1145/3176349.3176885
+ER
+
+AF Verma, Manisha
+    Yilmaz, Emine
+    Craswell, Nick
+UT 10.1145/3176349.3176888
+ER
+
+AF Sigitov, Anton
+    Staadt, Oliver
+    Hinkenjann, Andre
+    Kruijff, Ernst
+UT 10.1145/3176349.3176870
+ER
+
+AF Sarwar, Sheikh Muhammad
+    Foley, John
+    Allan, James
+UT 10.1145/3176349.3176886
+ER
+
+AF Roegiest, Adam
+    Wei, Winter
+UT 10.1145/3176349.3176873
+ER
+
+AF Rha, Eun Youp
+UT 10.1145/3176349.3176882
+ER
+
+AF Reynolds, Rebecca
+    Hansen, Preben
+UT 10.1145/3176349.3176884
+ER
+
+AF Rath, Manasa
+    Ghosh, Souvick
+    Shah, Chirag
+UT 10.1145/3176349.3176890
+ER
+
+AF Ong, Kevin
+    Jarvelin, Kalervo
+    Sanderson, Mark
+    Scholer, Falk
+UT 10.1145/3176349.3176872
+ER
+
+AF Mitsui, Matthew
+    Liu, Jiqun
+    Shah, Chirag
+UT 10.1145/3176349.3176887
+ER
+
+AF Mao, Jiaxin
+    Liu, Yiqun
+    Kando, Noriko
+    He, Zexue
+    Zhang, Min
+    Ma, Shaoping
+UT 10.1145/3176349.3176891
+ER
+
+AF Mandal, Soumik
+    Rath, Manasa
+    Wang, Yiwei
+    Patra, Braja Gopal
+UT 10.1145/3176349.3176874
+ER
+
+AF Lopatovska, Irene
+    Williams, Harriet
+UT 10.1145/3176349.3176868
+ER
+
+AF Liu, Chang
+    Liu, Jingjing
+    Yan, Zengwang
+UT 10.1145/3176349.3176878
+ER
+
+AF Liu, Chang
+    Song, Xiaoxuan
+UT 10.1145/3176349.3176876
+ER
+
+AF Kim, Sunyoung
+UT 10.1145/3176349.3176880
+ER
+
+AF Ince, Sharon Favaro
+    Hoadley, Christopher
+    Kirschner, Paul A.
+UT 10.1145/3176349.3176877
+ER
+
+AF Harvey, Morgan
+    Pointon, Matthew
+UT 10.1145/3176349.3176871
+ER
+
+AF Dodson, Samuel
+    Roll, Ido
+    Fong, Matthew
+    Yoon, Dongwook
+    Harandi, Negar M.
+    Fels, Sidney
+UT 10.1145/3176349.3176889
+ER
+
+AF Brennan, Kathy
+    Kelly, Diane
+UT 10.1145/3176349.3176883
+ER
+
+AF Braslavski, Pavel
+    Blinov, Vladislav
+    Bolotova, Valeria
+    Pertsova, Katya
+UT 10.1145/3176349.3176879
+ER
+
+AF Bhat, Karthik
+    Moreno, Andres
+    Best, Michael L.
+UT 10.1145/3176349.3176869
+ER
+
+AF Ling, Chenjun
+    Steichen, Ben
+    Choulos, Alexander G.
+UT 10.1145/3176349.3176383
+ER
+
+AF Wang, Jieyu
+    Komlodi, Anita
+UT 10.1145/3176349.3176396
+ER
+
+AF Syed, Rohail
+    Collins-Thompson, Kevyn
+UT 10.1145/3176349.3176397
+ER
+
+AF Zhang, Haotian
+    Abualsaud, Mustafa
+    Smucker, Mark
+UT 10.1145/3176349.3176400
+ER
+
+AF Buschel, Wolfgang
+    Mitschick, Annett
+    Dachselt, Raimund
+UT 10.1145/3176349.3176384
+ER
+
+AF Bota, Horatiu
+    Fourney, Adam
+    Dumais, Susan
+    Religa, Tomasz L.
+    Rounthwaite, Robert
+UT 10.1145/3176349.3176395
+ER
+
+AF Bahrainian, Seyed Ali
+    Crestani, Fabio
+UT 10.1145/3176349.3176399
+ER
+
+AF Jensen, Amalie Enshelm
+    Jaegerfelt, Caroline Moller
+    Francis, Sanne
+    Larsen, Birger
+    Bogers, Toine
+UT 10.1145/3176349.3176394
+ER
+
+AF Meier, Florian
+    Elsweiler, David
+UT 10.1145/3176349.3176392
+ER
+
+AF Alrashed, Tarfah
+    Awadallah, Ahmed Hassan
+    Dumais, Susan
+UT 10.1145/3176349.3176398
+ER
+
+AF Salminen, Joni
+    Jansen, Bernard J.
+    An, Jisun
+    Jung, Soon-Gyo
+    Nielsen, Lene
+    Kwak, Haewoon
+UT 10.1145/3176349.3176391
+ER
+
+AF Dinneen, Jesse David
+    Asadi, Banafsheh
+    Frissen, Ilja
+    Shu, Fei
+    Julien, Charles-Antoine
+UT 10.1145/3176349.3176385
+ER
+
+AF Wang, Yiwei
+    Sarkar, Shawon
+    Shah, Chirag
+UT 10.1145/3176349.3176390
+ER
+
+AF Hienert, Daniel
+    Mitsui, Matthew
+    Mayr, Philipp
+    Shah, Chirag
+    Belkin, Nicholas J.
+UT 10.1145/3176349.3176382
+ER
+
+AF Shah, Chirag
+UT 10.1145/3176349.3176389
+ER
+
+AF Avula, Sandeep
+    Chadwick, Gordon
+    Arguello, Jaime
+    Capra, Rob
+UT 10.1145/3176349.3176380
+ER
+
+AF Thomas, Paul
+    Czerwinski, Mary
+    McDuff, Daniel
+    Craswell, Nick
+    Mark, Gloria
+UT 10.1145/3176349.3176388
+ER
+
+AF Trippas, Johanne R.
+    Spina, Damiano
+    Cavedon, Lawrence
+    Joho, Hideo
+    Sanderson, Mark
+UT 10.1145/3176349.3176387
+ER
+
+AF Ghosh, Souvick
+    Rath, Manasa
+    Shah, Chirag
+UT 10.1145/3176349.3176386
+ER
+
+AF Yamamoto, Yusuke
+    Yamamoto, Takehiro
+UT 10.1145/3176349.3176377
+ER
+
+AF Gadiraju, Ujwal
+    Yu, Ran
+    Dietze, Stefan
+    Holtz, Peter
+UT 10.1145/3176349.3176381
+ER
+
+AF Hashemi, Seyyed Hadi
+    Kamps, Jaap
+UT 10.1145/3020165.3022160
+ER
+
+AF McKay, Dana
+    Buchanan, George R.
+UT 10.1145/3020165.3022159
+ER
+
+AF Dodson, Samuel
+    Freund, Luanne
+    Kopak, Richard
+UT 10.1145/3020165.3022158
+ER
+
+AF Gwizdka, Jacek
+    Bilal, Dania
+UT 10.1145/3020165.3022157
+ER
+
+AF Kulahcioglu, Tugba
+    Fradkin, Dmitriy
+    Palanivelu, Sridharan
+UT 10.1145/3020165.3022156
+ER
+
+AF Dehghani, Mostafa
+    Jagfeld, Glorianna
+    Azarbonyad, Hosein
+    Olieman, Alex
+    Kamps, Jaap
+    Marx, Maarten
+UT 10.1145/3020165.3022155
+ER
+
+AF Arora, Piyush
+    Jones, Gareth J. F.
+UT 10.1145/3020165.3022154
+ER
+
+AF Singh, Jaspreet
+    Anand, Avishek
+UT 10.1145/3020165.3022153
+ER
+
+AF Kitazawa, Takuya
+UT 10.1145/3020165.3022152
+ER
+
+AF Wang, Yiwei
+    Sarkar, Shawon
+    Shah, Chirag
+UT 10.1145/3020165.3022151
+ER
+
+AF Crescenzi, Anita
+    Capra, Rob
+    Arguello, Jaime
+UT 10.1145/3020165.3022150
+ER
+
+AF Braslavski, Pavel
+    Savenkov, Denis
+    Agichtein, Eugene
+    Dubatovka, Alina
+UT 10.1145/3020165.3022149
+ER
+
+AF Gwizdka, Jacek
+UT 10.1145/3020165.3022148
+ER
+
+AF Boschen, Falk
+    Strobel, Benjamin
+    Goos, Steffen
+    Liebers, Christoph
+    Rathje, Bastian
+    Scherp, Ansgar
+UT 10.1145/3020165.3022147
+ER
+
+AF Liu, Chang
+    Liu, Jiqun
+    Wei, Yiming
+UT 10.1145/3020165.3022146
+ER
+
+AF Rath, Manasa
+    Le, Long T.
+    Shah, Chirag
+UT 10.1145/3020165.3022145
+ER
+
+AF Trippas, Johanne R.
+    Spina, Damiano
+    Cavedon, Lawrence
+    Sanderson, Mark
+UT 10.1145/3020165.3022144
+ER
+
+AF Husevag, Anne-Stine Ruud
+UT 10.1145/3020165.3022143
+ER
+
+AF Ishita, Emi
+    Miyata, Yosuke
+    Ueda, Shuichi
+    Kurata, Keiko
+UT 10.1145/3020165.3022142
+ER
+
+AF Medlar, Alan
+    Glowacka, Dorota
+UT 10.1145/3020165.3022141
+ER
+
+AF Thiel, Marcus
+    Ludwig, Philipp
+    Mossakowski, Till
+    Neuhaus, Fabian
+    Nurnberger, Andreas
+UT 10.1145/3020165.3022140
+ER
+
+AF Melgar, Liliana
+    Koolen, Marijn
+    Huurdeman, Hugo
+    Blom, Jaap
+UT 10.1145/3020165.3022139
+ER
+
+AF Seifert, Christin
+    Mitschick, Annett
+    Schlotterer, Jorg
+    Dachselt, Raimund
+UT 10.1145/3020165.3022138
+ER
+
+AF Aigner, Johannes
+    Durchardt, Amelie
+    Kersting, Thiemo
+    Kattenbeck, Markus
+    Elsweiler, David
+UT 10.1145/3020165.3022137
+ER
+
+AF Harvey, Morgan
+    Pointon, Matthew
+UT 10.1145/3020165.3022136
+ER
+
+AF Sanchiz, Mylene
+    Chevalier, Aline
+    Fu, Wai-Tat
+    Amadieu, Franck
+UT 10.1145/3020165.3022135
+ER
+
+AF MacFarlane, Andrew
+    Buchanan, George
+    Al-Wabil, Areej
+    Andrienko, Gennady
+    Andrienko, Natalia
+UT 10.1145/3020165.3022134
+ER
+
+AF Brazier, David
+    Harvey, Morgan
+UT 10.1145/3020165.3022133
+ER
+
+AF Waugh, Shermaine
+    McKay, Dana
+    Makri, Stephann
+UT 10.1145/3020165.3022132
+ER
+
+AF Low, Thomas
+    Bubalo, Nikola
+    Gossen, Tatiana
+    Kotzyba, Michael
+    Brechmann, Andre
+    Huckauf, Anke
+    Nurnberger, Andreas
+UT 10.1145/3020165.3022131
+ER
+
+AF Vu, Thanh
+    Willis, Alistair
+    Kruschwitz, Udo
+    Song, Dawei
+UT 10.1145/3020165.3022129
+ER
+
+AF Zengin, Mustafa
+    Carterette, Ben
+UT 10.1145/3020165.3022128
+ER
+
+AF Kumpulainen, Sanna
+    Kautonen, Heli
+UT 10.1145/3020165.3022124
+ER
+
+AF Verberne, Suzan
+    van den Bosch, Antal
+    Wubben, Sander
+    Krahmer, Emiel
+UT 10.1145/3020165.3022127
+ER
+
+AF Fu, Hengyi
+UT 10.1145/3020165.3022126
+ER
+
+AF Inthiran, Anushia
+UT 10.1145/3020165.3022125
+ER
+
+AF Htun, Nyi Nyi
+    Halvey, Martin
+    Baillie, Lynne
+UT 10.1145/3020165.3020171
+ER
+
